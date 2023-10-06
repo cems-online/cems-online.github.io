@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-49cecafa","path":"/setting/chimney/status%20chimney.html","title":"Setting Status Chimney","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1644642810000,"contributors":[{"name":"Anissskh","email":"aniskhoiriah24@gmail.com","commits":1}]},"filePathRelative":"setting/chimney/status chimney.md"}');export{t as data};

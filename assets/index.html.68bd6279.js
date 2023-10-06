@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-eea59d9c","path":"/petunjuk-pengoperasian/setting/","title":"Pengaturan","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1627540309000,"contributors":[{"name":"annlumia","email":"ann.lumia@live.com","commits":1}]},"filePathRelative":"petunjuk-pengoperasian/setting/README.md"}');export{e as data};

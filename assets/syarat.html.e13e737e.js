@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-295531a7","path":"/panduan-installasi/syarat.html","title":"Syarat-syarat","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1627540309000,"contributors":[{"name":"annlumia","email":"ann.lumia@live.com","commits":1}]},"filePathRelative":"panduan-installasi/syarat.md"}');export{a as data};
