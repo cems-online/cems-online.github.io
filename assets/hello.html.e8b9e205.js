@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1699ae8d","path":"/tes/hello.html","title":"","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1685758436000,"contributors":[{"name":"HotmanJw","email":"ann.lumia@live.com","commits":2},{"name":"arviansetya","email":"arviansetya04@gmail.com","commits":1}]},"filePathRelative":"tes/hello.md"}');export{e as data};

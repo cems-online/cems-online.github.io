@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-91b8b888","path":"/api/otentikasi.html","title":"Otentikasi","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1637581371000,"contributors":[{"name":"annlumia","email":"ann.lumia@live.com","commits":1}]},"filePathRelative":"api/otentikasi.md"}');export{t as data};

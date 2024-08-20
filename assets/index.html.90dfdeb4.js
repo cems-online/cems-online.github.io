@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0cc0c775","path":"/faq/generate-report/","title":"2. Generate Report Error?","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1723792415000,"contributors":[{"name":"viantow","email":"anas.vianto11@gmail.com","commits":1}]},"filePathRelative":"faq/generate-report/readme.md"}');export{e as data};

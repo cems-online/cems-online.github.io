@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-41001aa4","path":"/faq/set-status-parameter/","title":"6. Set Status Parameter?","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1723792415000,"contributors":[{"name":"viantow","email":"anas.vianto11@gmail.com","commits":1}]},"filePathRelative":"faq/set-status-parameter/readme.md"}');export{a as data};

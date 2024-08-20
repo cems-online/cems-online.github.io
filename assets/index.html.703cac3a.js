@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as n,b as e,d as r}from"./app.675f509a.js";const c={},o=e("h1",{id:"pengaturan",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#pengaturan","aria-hidden":"true"},"#"),r(" Pengaturan")],-1),s=[o];function d(_,i){return t(),n("div",null,s)}const l=a(c,[["render",d],["__file","index.html.vue"]]);export{l as default};

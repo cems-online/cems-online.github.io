@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,b as a,d as s}from"./app.675f509a.js";const c={},o=a("h1",{id:"syarat-syarat",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#syarat-syarat","aria-hidden":"true"},"#"),s(" Syarat-syarat")],-1),n=[o];function _(d,i){return t(),r("div",null,n)}const l=e(c,[["render",_],["__file","syarat.html.vue"]]);export{l as default};

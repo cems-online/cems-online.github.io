@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7f7959d8","path":"/faq/set-status-chimney/","title":"5. Set Status Chimney?","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1723792415000,"contributors":[{"name":"viantow","email":"anas.vianto11@gmail.com","commits":1}]},"filePathRelative":"faq/set-status-chimney/readme.md"}');export{t as data};

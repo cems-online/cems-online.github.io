@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,b as e,d as c}from"./app.675f509a.js";const n={},o=e("h1",{id:"sispek",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sispek","aria-hidden":"true"},"#"),c(" SISPEK")],-1),r=[o];function d(_,i){return t(),a("div",null,r)}const l=s(n,[["render",d],["__file","index.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,b as e,d as o}from"./app.675f509a.js";const c={},n=e("h1",{id:"report-template",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#report-template","aria-hidden":"true"},"#"),o(" Report Template")],-1),s=[n];function d(_,i){return a(),r("div",null,s)}const h=t(c,[["render",d],["__file","index.html.vue"]]);export{h as default};

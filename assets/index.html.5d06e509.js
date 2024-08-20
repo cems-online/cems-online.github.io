@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-22810f5e","path":"/setting/sispek/","title":"SISPEK","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1667100148000,"contributors":[{"name":"annlumia","email":"ann.lumia@live.com","commits":1}]},"filePathRelative":"setting/sispek/readme.md"}');export{e as data};

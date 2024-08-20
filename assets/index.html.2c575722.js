@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-bb228736","path":"/faq/data-sispek/","title":"4. Cek Data Yang Dikirimkan Ke SISPEK?","lang":"id-ID","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1723792415000,"contributors":[{"name":"viantow","email":"anas.vianto11@gmail.com","commits":1}]},"filePathRelative":"faq/data-sispek/readme.md"}');export{a as data};
